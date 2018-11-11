@@ -1,0 +1,32 @@
+﻿  Circle.cpp
+c:\users\kamil\source\repos\homework\homework\circle.cpp(20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\circle.cpp(21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ComposedShape.cpp
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(95): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(134): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(140): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(167): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(174): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(219): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(223): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(247): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(279): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(307): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(333): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(357): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(469): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(504): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Rectangle.cpp
+  Triangle.cpp
+c:\users\kamil\source\repos\homework\homework\triangle.cpp(23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Homework.vcxproj -> C:\Users\Kamil\source\repos\Homework\Debug\Homework.exe

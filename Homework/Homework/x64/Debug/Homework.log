@@ -1,0 +1,54 @@
+﻿  pch.cpp
+  Circle.cpp
+c:\users\kamil\source\repos\homework\homework\circle.cpp(106): error C2248: 'Circle::cx': cannot access private member declared in class 'Circle'
+  c:\users\kamil\source\repos\homework\homework\circle.h(16): note: see declaration of 'Circle::cx'
+  c:\users\kamil\source\repos\homework\homework\circle.h(12): note: see declaration of 'Circle'
+c:\users\kamil\source\repos\homework\homework\circle.cpp(106): error C2248: 'Circle::cy': cannot access private member declared in class 'Circle'
+  c:\users\kamil\source\repos\homework\homework\circle.h(17): note: see declaration of 'Circle::cy'
+  c:\users\kamil\source\repos\homework\homework\circle.h(12): note: see declaration of 'Circle'
+c:\users\kamil\source\repos\homework\homework\circle.cpp(106): error C2248: 'Circle::Radius': cannot access private member declared in class 'Circle'
+  c:\users\kamil\source\repos\homework\homework\circle.h(15): note: see declaration of 'Circle::Radius'
+  c:\users\kamil\source\repos\homework\homework\circle.h(12): note: see declaration of 'Circle'
+  ComposedShape.cpp
+c:\users\kamil\source\repos\homework\homework\circle.h(43): error C2143: syntax error: missing ';' before '&'
+c:\users\kamil\source\repos\homework\homework\circle.h(43): error C2433: 'ostream': 'friend' not permitted on data declarations
+c:\users\kamil\source\repos\homework\homework\circle.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kamil\source\repos\homework\homework\circle.h(43): error C2238: unexpected token(s) preceding ';'
+c:\users\kamil\source\repos\homework\homework\rectangle.h(48): error C2143: syntax error: missing ';' before '&'
+c:\users\kamil\source\repos\homework\homework\rectangle.h(48): error C2433: 'ostream': 'friend' not permitted on data declarations
+c:\users\kamil\source\repos\homework\homework\rectangle.h(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kamil\source\repos\homework\homework\rectangle.h(48): error C2238: unexpected token(s) preceding ';'
+c:\users\kamil\source\repos\homework\homework\triangle.h(48): error C2143: syntax error: missing ';' before '&'
+c:\users\kamil\source\repos\homework\homework\triangle.h(48): error C2433: 'ostream': 'friend' not permitted on data declarations
+c:\users\kamil\source\repos\homework\homework\triangle.h(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kamil\source\repos\homework\homework\triangle.h(48): error C2238: unexpected token(s) preceding ';'
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(125): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(131): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(135): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(177): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(201): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(226): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(230): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(256): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(281): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(304): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(325): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(462): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(499): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(511): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\kamil\source\repos\homework\homework\composedshape.cpp(523): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Rectangle.cpp
+  ShapeElem.cpp
+  Triangle.cpp
+  Generating Code...
